@@ -1,2 +1,2 @@
-# goit-js-hw-01
-This is my first JS HW!
+# goit-markup-hw-01
+This is my first HW!
