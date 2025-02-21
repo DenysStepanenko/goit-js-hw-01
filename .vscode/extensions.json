@@ -1,9 +1,0 @@
-{
-  "recommendations": [
-    "esbenp.prettier-vscode",
-    "christian-kohler.path-intellisense",
-    "zhuangtongfa.material-theme",
-    "ritwickdey.liveserver",
-    "ecmel.vscode-html-css"
-  ]
-}

@@ -1,4 +1,0 @@
-{
-  "debug.javascript.autoAttachFilter": "onlyWithFlag",
-  "prettier.requirePragma": true
-}
