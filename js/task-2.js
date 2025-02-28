@@ -4,5 +4,5 @@ function getShippingMessage(country, price, deliveryFee) {
     return `Shipping to ${country} will cost ${totalPrice} credits`;
 }
 console.log(getShippingMessage("Ukraine", 100, 10)); // Shipping to Ukraine will cost 110 credits
-
-
+console.log(getShippingMessage("Germany", 80, 20));
+console.log(getShippingMessage("Sweden", 100, 20));
